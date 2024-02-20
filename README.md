@@ -1,6 +1,6 @@
 # "Simple snake and apple game using pygames"
 The Snake Apple game is a classic arcade-style game where the player controls a snake that moves around the screen, eating apples to grow longer while avoiding
-collisions with walls and its own body. The objective is to survive as long as possible and achieve the highest score.
+collisions with its own body. The objective is to survive as long as possible and achieve the highest score.
 
 RULES -
 1) A snake game is made up of a grid, a snake, and apples.
